@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Dizer Olá</string>
+    <string name="input_text_name_hint">Digite seu nome completo</string>
+    <string name="button_say_hello">Dizer olá</string>
+</resources>
